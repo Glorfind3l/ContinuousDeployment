@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <StartupObject>ContinuousWeb.Program</StartupObject>
+    <RazorCompileToolset>PrecompilationTool</RazorCompileToolset>
   </PropertyGroup>
 
   <ItemGroup>
